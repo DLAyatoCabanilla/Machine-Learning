@@ -23,7 +23,7 @@
 <ul>
   <li><strong>Courses:</strong> <a href="https://www.udemy.com/course/machinelearning/">Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024] by SuperDataScience</a>
   <li><strong>Books:</strong> <em>Deep Learning</em> by Ian Goodfellow, Yoshua Bengio, and Aaron Courville</li>
-  <li><strong>Tools:</strong> Python, Jupyter Notebooks, TensorFlow, Keras, PyTorch, R, RStudio</li>
+  <li><strong>Tools:</strong> Python, Jupyter Notebooks, TensorFlow, Keras, PyTorch, R, RStudio, Visual Studio Code, Google Colab</li>
 </ul>
 
 <h3>Connect and Collaborate</h3>
