@@ -1,4 +1,4 @@
-<h2>Join Me on the Machine Learning Journey!</h2>
+<h1>My Machine Learning Journey!</h1>
 
 <p>I'm currently on an exciting path of self-studying Machine Learning, and I'd love to invite you to join me in this journey. Whether you're a beginner or have some experience, there's always something new to learn in this rapidly evolving field.</p>
 
