@@ -1,5 +1,4 @@
 Welcome to Part 1 - Data Preprocessing
 
-My Data Preprocessing in Python and R . 
+My Data Preprocessing Exercise Files in Python and R during self-studying Machine Learning. 
 
-Excited to begin with you the Machine Learning journey!
